@@ -1,3 +1,7 @@
-##Clonar el Proyecto
-Para clonar este repositorio se ocupa este comando
-git clone https://github.com/tu-usuario/tu-repositorio.git
+## Clonar el Proyecto
+
+Para clonar el repositorio, ejecuta:
+
+```bash
+git clone https://github.com/EmmanuelSanchez77/proyecto.git
+cd nombre-del-proyecto
